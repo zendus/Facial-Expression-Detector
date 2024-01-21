@@ -20,7 +20,7 @@ This project utilizes deep learning techniques to build a real-time facial expre
 
 2. **Install Dependencies:**
    ```bash
-   pip install opencv-python keras numpy
+   pip install opencv-python tensorflow numpy
    ```
 
 3. **Download Pre-trained Model:**
@@ -34,7 +34,7 @@ This project utilizes deep learning techniques to build a real-time facial expre
 ## Dependencies
 
 - OpenCV
-- Keras
+- Tensorflow
 - NumPy
 
 ## Notes
